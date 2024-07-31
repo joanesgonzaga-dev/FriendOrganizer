@@ -1,0 +1,1 @@
+INSERT INTO Friends(Id, FirstName, LastName, Email) VALUES(5, 'Joanes', 'Gonzaga', 'joanesgonzaga.dev@gmail.com');
